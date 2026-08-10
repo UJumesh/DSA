@@ -2,7 +2,7 @@
 Day 5
 
 # Intuition
-LC 70 3Sum closest:
+LC 75-sort Colors:
 
 We have three possible values: `0`, `1`, and `2`.
 
