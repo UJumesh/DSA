@@ -1,5 +1,5 @@
 # DSA
-Day 5 — LC 75-sort Colors:
+#Day 5 — LC 75-sort Colors:
 
 # Intuition
 LC 75-sort Colors:
